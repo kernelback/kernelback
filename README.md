@@ -1,5 +1,3 @@
-<h1 align="center">Salut 👋, je m'appelle Abdelhadi</h1>
-
 Je suis développeur passionné par l'idée de créer de nouvelles choses. J'apprécie également la résolution de problèmes, particulièrement le sentiment de satisfaction lorsque mon code permet de résoudre le problème. J'aime les défis et j'ai hâte d'apprendre de nouvelles choses.
 
 Vue.js et Symfony sont deux de mes technologies préférées pour travailler. Je suis fasciné par le développement informatique et j'aimerais travailler dans ce domaine.
